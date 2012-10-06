@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[[sequielo]]]></title>
   <link href="http://sequielo.github.com/atom.xml" rel="self"/>
   <link href="http://sequielo.github.com/"/>
-  <updated>2012-10-05T21:58:09-03:00</updated>
+  <updated>2012-10-06T01:50:52-03:00</updated>
   <id>http://sequielo.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[sequielo]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world!]]></title>
+    <link href="http://sequielo.github.com/blog/2012/10/04/hello-world/"/>
+    <updated>2012-10-04T00:20:00-03:00</updated>
+    <id>http://sequielo.github.com/blog/2012/10/04/hello-world</id>
+    <content type="html"><![CDATA[<p>I salute you, nerdy folks (=</p>
+
+<!-- more -->
+
+
+<h2>With Ruby</h2>
+
+<pre><code>puts "Hello Rubysts!"
+</code></pre>
+
+<h2>With Python</h2>
+
+<pre><code>print "Hello Pythonics!"
+</code></pre>
+
+<h2>With Bash</h2>
+
+<pre><code>echo "Hello Sheebangers!"
+</code></pre>
+
+<h2>With C</h2>
+
+<pre><code>#include &lt;stdio.h&gt;
+
+int main(void){
+    printf("Hello C lords!");
+}
+</code></pre>
+]]></content>
+  </entry>
   
 </feed>

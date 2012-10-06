@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://sequielo.github.com/blog/2012/10/04/hello-world/</loc>
+        <lastmod>2012-10-06T01:15:22-03:00</lastmod>
+    </url>
+    <url>
         <loc>http://sequielo.github.com/blog/archives/</loc>
-        <lastmod>2012-10-05T21:50:56-03:00</lastmod>
+        <lastmod>2012-10-06T01:15:22-03:00</lastmod>
     </url>
     <url>
         <loc>http://sequielo.github.com/</loc>
-        <lastmod>2012-10-05T21:50:56-03:00</lastmod>
+        <lastmod>2012-10-06T01:15:22-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sequielo.github.com/cheatsheets/</loc>
+        <lastmod>2012-10-06T01:14:47-03:00</lastmod>
     </url>
 </urlset>
